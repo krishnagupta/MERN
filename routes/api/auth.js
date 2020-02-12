@@ -57,8 +57,6 @@ async (req, res) => {
           console.log(err.message)
           res.status(500).send('Server error')
     }
-
-    res.send('User route')
 })
 
 router.get('/', auth, async (req, res) => {
