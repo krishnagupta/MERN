@@ -2,7 +2,7 @@
 
 - .gitignore
 - npm init
-- npm install bcryptjs config express express-validator gravator jsonwebtoken mongoose request --save
+- npm install bcryptjs config express express-validator gravatar jsonwebtoken mongoose request --save
 - npm i -D concurrently nodemon --save
 - make server.js
 - make config folder and default.json file
@@ -11,3 +11,6 @@
 - make models folder for schema
 - make middleware folder
 - 
+
+
+[LINK TO GITHUB](https://github.com/bradtraversy/devconnector_2.0)
